@@ -55,7 +55,7 @@ rider per cult quadrant. All Met Open Access (CC0):
 | Spring | *The Flowering Orchard* | Vincent van Gogh |
 | Summer | *Wheat Field with Cypresses* | Vincent van Gogh |
 | Autumn | *Autumn Landscape with a Flock of Turkeys* | Jean-François Millet |
-| Winter | *The Forest in Winter at Sunset* | Théodore Rousseau |
+| Winter | *Red School House (Country Scene)* | George Henry Durrie |
 | War / Famine / Death / Conquest | *The Four Horsemen, from The Apocalypse* | Albrecht Dürer |
 
 Copies in `seasons/` and `horsemen/` are reduced from the originals — enough to
