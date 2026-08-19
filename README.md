@@ -57,6 +57,8 @@ rider per cult quadrant. All Met Open Access (CC0):
 | Autumn | *Autumn Landscape with a Flock of Turkeys* | Jean-François Millet |
 | Winter | *Red School House (Country Scene)* | George Henry Durrie |
 | War / Famine / Death / Conquest | *The Four Horsemen, from The Apocalypse* | Albrecht Dürer |
+| Spires Observation Pool | *Antoine Laurent Lavoisier and His Wife* | Jacques Louis David |
+| Spires Influence Pool | *Man Weighing Gold* | Adriaen Isenbrant |
 
 Copies in `seasons/` and `horsemen/` are reduced from the originals — enough to
 regenerate the boards, not archival masters.
