@@ -15,6 +15,9 @@ at once. Serving from a CDN removes that single point of failure.
   The originals were print masters (many at 2480x3508, A4 at 300dpi); at TTS's actual
   render and zoom sizes they cost about 6x the video memory for no visible gain.
 - `boards/` — faction reference boards composited for the mod.
+- `rituals/` — Sorcerer Kings ritual cards, and the shared ritual card back.
+- `elements/` — the public-domain paintings used as elemental headers on the
+  ritual cards, kept here so the cards can be regenerated from source.
 
 ## Use
 
@@ -23,6 +26,23 @@ Files are served via jsDelivr, pinned to a tag so URLs never shift:
 ```
 https://cdn.jsdelivr.net/gh/<owner>/conquest-tts-assets@<tag>/cards/<file>
 ```
+
+## Attribution — elemental art
+
+The four paintings behind the ritual card headers are public domain, from the
+Metropolitan Museum of Art's Open Access collection, which releases images of
+public-domain works under CC0:
+
+| Element | Work | Artist |
+|---|---|---|
+| Fire | *An Eruption of Vesuvius* | Johan Christian Dahl |
+| Water | *Northeaster* | Winslow Homer |
+| Earth | *Bandits on a Rocky Coast* | Salvator Rosa |
+| Air | *Clouds* | Thomas Cole |
+
+Dual-element rituals combine two of these. The Met was chosen over other museum
+APIs because its CC0 designation covers the images themselves, not only the
+accompanying metadata.
 
 ## Provenance
 
