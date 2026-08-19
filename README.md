@@ -44,26 +44,22 @@ Dual-element rituals combine two of these. The Met was chosen over other museum
 APIs because its CC0 designation covers the images themselves, not only the
 accompanying metadata.
 
-## Attribution — season and cult art
+## Attribution — elemental art
 
-The Weaver season wheel fills each quadrant with a public-domain painting of that
-season; the W'adrhun chant board uses Dürer's woodcut of the Four Horsemen, one
-rider per cult quadrant. All Met Open Access (CC0):
+The ritual card headers use public-domain paintings from the Met's Open Access
+collection, which releases images of public-domain works under CC0:
 
-| Used for | Work | Artist |
+| Element | Work | Artist |
 |---|---|---|
-| Spring | *The Flowering Orchard* | Vincent van Gogh |
-| Summer | *Wheat Field with Cypresses* | Vincent van Gogh |
-| Autumn | *Autumn Landscape with a Flock of Turkeys* | Jean-François Millet |
-| Winter | *Red School House (Country Scene)* | George Henry Durrie |
-| War / Famine / Death / Conquest | *The Four Horsemen, from The Apocalypse* | Albrecht Dürer |
+| Fire | *An Eruption of Vesuvius* | Johan Christian Dahl |
+| Water | *Northeaster* | Winslow Homer |
+| Earth | *Bandits on a Rocky Coast* | Salvator Rosa |
+| Air | *Clouds* | Thomas Cole |
 
-The Spires pool boards use the faction's own artwork from its army book rather than
-gallery paintings — a bio-engineered alien faction looked wrong under Renaissance
-portraiture. That art is © Para Bellum, covered by the provenance note below.
-
-Copies in `seasons/` and `horsemen/` are reduced from the originals — enough to
-regenerate the boards, not archival masters.
+The faction boards — chant board, season wheel and both Spires pools — use each
+faction's own artwork from its army book instead. Gallery paintings were the wrong
+register beside the rest of the mod. That art is © Para Bellum, covered by the note
+below.
 
 ## Provenance
 
